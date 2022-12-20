@@ -18,9 +18,9 @@ import com.google.firebase.firestore.FieldValue;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.Query;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
-import com.marsad.catchy.R;
-import com.marsad.catchy.adapter.ChatAdapter;
-import com.marsad.catchy.model.ChatModel;
+import com.dipa.media.R;
+import com.dipa.media.adapter.ChatAdapter;
+import com.dipa.media.model.ChatModel;
 
 import java.util.ArrayList;
 import java.util.HashMap;

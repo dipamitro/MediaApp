@@ -12,9 +12,9 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
-import com.marsad.catchy.R;
-import com.marsad.catchy.adapter.ChatUserAdapter;
-import com.marsad.catchy.model.ChatUserModel;
+import com.dipa.media.R;
+import com.dipa.media.adapter.ChatUserAdapter;
+import com.dipa.media.model.ChatUserModel;
 
 import java.util.ArrayList;
 import java.util.List;

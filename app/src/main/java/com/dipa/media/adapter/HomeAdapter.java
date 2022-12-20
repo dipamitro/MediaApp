@@ -14,11 +14,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
-import androidx.fragment.app.FragmentActivity;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.dipa.media.model.HomeModel;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.dipa.media.R;
@@ -39,9 +37,6 @@ public class HomeAdapter extends RecyclerView.Adapter<HomeAdapter.HomeHolder> {
     public HomeAdapter(List<HomeModel> list, Activity context) {
         this.list = list;
         this.context = context;
-    }
-
-    public HomeAdapter(List<HomeModel> list, FragmentActivity activity) {
     }
 
     @NonNull
