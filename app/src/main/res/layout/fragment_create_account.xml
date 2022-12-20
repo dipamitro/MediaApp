@@ -7,12 +7,15 @@
     tools:context=".fragments.CreateAccountFragment">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="171dp"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="78dp"
-        android:text="Create \nAccount"
+        android:layout_marginTop="186dp"
+        android:layout_marginEnd="117dp"
+        android:text="Create Account"
         android:textColor="@color/colorGreen"
         android:textSize="24sp"
         android:textStyle="bold" />
