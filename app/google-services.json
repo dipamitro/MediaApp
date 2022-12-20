@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543234167891",
+    "project_id": "media-e1464",
+    "storage_bucket": "media-e1464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543234167891:android:3e23654fa21e7c55c622a6",
+        "android_client_info": {
+          "package_name": "com.dipa.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543234167891-esuopao32uhh0rtjri1094gtsk5cfl8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWnFar5dvqSHlKGQnPG1CgAmspGq5tf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543234167891-esuopao32uhh0rtjri1094gtsk5cfl8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
