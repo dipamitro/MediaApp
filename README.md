@@ -1,5 +1,5 @@
 # MediaApp
-#Functionalities:
+##Functionalities:
 Able to login
 Able to login with Google accounts
 Login verification
