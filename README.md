@@ -32,9 +32,9 @@ Functionalities:
 - Firebase Authentication using custom email
 - Cloud Firestore 
 - Firebase Storage
-implementation 'com.google.firebase:firebase-firestore:24.4.1'
-    implementation 'com.google.firebase:firebase-auth:21.1.0'
-    implementation 'com.google.firebase:firebase-storage:20.1.0'
+- implementation 'com.google.firebase:firebase-firestore:24.4.1'
+    - implementation 'com.google.firebase:firebase-auth:21.1.0'
+    - implementation 'com.google.firebase:firebase-storage:20.1.0'
 #
 ![Capture4](https://user-images.githubusercontent.com/99094848/208784967-3447e7e7-7452-4396-b3e7-efdb99227752.PNG)
 #
