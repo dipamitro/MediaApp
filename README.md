@@ -1,5 +1,5 @@
 # MediaApp
-Functionalities:
+## Functionalities:
 
 - Able to login
  - Able to login with Google accounts
@@ -28,7 +28,7 @@ Functionalities:
 
 
 
-## Dependencies:
+### Dependencies:
 - Firebase Authentication using custom email
 - Cloud Firestore 
 - Firebase Storage
