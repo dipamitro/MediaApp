@@ -1,24 +1,22 @@
 # MediaApp
 Functionalities:
 
-- Able to loginmplates
+- Able to login
  - Able to login with Google accounts
  - Signup verification
-- Login
  - Forgate password
  - Forgate password with email verification Code
 
 - Able to signup using email (verified ones)
- - Able to add reactions to messages or photos
 
-- Able to receive message notification when offline
+
+- Able to receive message notification
  - Able to search new users or friends
  - Able to update profile picture
  
 - Able to add reactions to messages or photos
-- Able to see availability status (online, offline, typing)
+- Able to see availability status
 
-- Able to search new users or friends
 - Able to add users as friend
 - Able to update profile picture
 - Able to update name
